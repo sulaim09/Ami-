@@ -1,8 +1,8 @@
 provider "aws" {
   # Configuration options
   region     = "us-east-1"
-  access_key = "AKIA43YMUKVDNMQ3WP6U"
-  secret_key = "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"
+  access_key = "cccxsdssxx"
+  secret_key = "pI/sTP76sdddsdsly7"
 }
 
 # 5-videos / How to  create AMI -there are 4 ways by Terraform ?
